@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Byron",
+            "surname": "De Villiers",
+            "cellPhone": "0829123465",
+            "email": "byron@mail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        },
+        {
+            "id": "3",
+            "name": "Hubet Leo",
+            "surname": "Leo",
+            "cellPhone": "0829123465",
+            "email": "leo.hubert3@gmail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        },
+        {
+            "id": "4",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "test1@mail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        }
+    ]
+}

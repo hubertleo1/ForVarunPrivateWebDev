@@ -1,0 +1,103 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Byrn",
+            "surname": "De Villers",
+            "cellPhone": "0829123465",
+            "email": "byron@mail.com",
+            "password": "P@ssword",
+            "role": "provider"
+        },
+        {
+            "id": "5",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "test@mail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "7",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "tt@mail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "8",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "tt@ail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "9",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "tt@al.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "10",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "heloworld@gmail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "11",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "helowrld@gmail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "12",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "helowld@gmail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "13",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "hlowld@gmail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "14",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "hlowd@gmail.com",
+            "password": "P@ssword",
+            "role": "pianist"
+        },
+        {
+            "id": "15",
+            "name": "Adam",
+            "surname": "Gyorgy",
+            "cellPhone": "1234",
+            "email": "howd@gil.co",
+            "password": "P@ssword",
+            "role": "pianist"
+        }
+    ]
+}
